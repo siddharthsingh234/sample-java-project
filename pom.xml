@@ -9,6 +9,8 @@
   <description>@description@</description>
   <url>@project.url@</url>
 
+  !-Demo
+
   <licenses>
     <license>
       <name>The Unlicense</name>
